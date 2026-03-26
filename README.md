@@ -15,7 +15,7 @@ A proposta considera o comportamento do usuário ao longo do dia, adaptando a in
 ## Estrutura do projeto
 
 - pasta figma: telas desenvolvidas e link do protótipo  
-- pasta doc: documentação do projeto  
+- pasta documento Base: documentação do projeto  
 
 ## Protótipo no Figma
 
